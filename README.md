@@ -21,7 +21,8 @@ MODELO DE TUCKMAN
 
 # INGLÊS:
 
-Práticando algoritmo
+PRATICA DE ALGORITMOS E MELHORA DE HABILIDADES
+
 - https://www.hackerrank.com/
 
 
