@@ -21,6 +21,10 @@ MODELO DE TUCKMAN
 
 # INGLÊS:
 
+Práticando algoritmo
+- https://www.hackerrank.com/
+
+
 GUIA GITHUB (BRANCHES, FORKS ...)
 
 - https://guides.github.com/
@@ -34,4 +38,5 @@ TEMPLATES DE SITES
 - https://html5up.net/
 
 - https://colorlib.com/wp/bootstrap-admin-templates/ (dashboards)
+
 
