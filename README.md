@@ -38,6 +38,8 @@ TEMPLATES DE SITES
 
 - https://html5up.net/
 
+- https://colorlib.com/wp/templates/
+
 - https://colorlib.com/wp/bootstrap-admin-templates/ (dashboards)
 
 
